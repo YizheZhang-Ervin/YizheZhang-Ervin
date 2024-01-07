@@ -29,7 +29,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yizhezhang-ervin" alt="yizhezhang-ervin" /></a> </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yizhezhang-ervin&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=yizhezhang-ervin&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
