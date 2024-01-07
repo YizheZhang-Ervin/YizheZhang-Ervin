@@ -1,6 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ervin</h1>
+<h1 align="center"> Hi 🔭, I'm Ervin</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yizhezhang-ervin&label=Profile%20views&color=0e75b6&style=flat" alt="yizhezhang-ervin" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yizhezhang-ervin&label=Profile%20views&color=0e75b6&style=flat" alt="yizhezhang-ervin" /> </p>
+![](https://badgen.net/badge/I'm/Ervin&nbsp;Zhang/orange)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yizhezhang-ervin)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yizhe-zhang)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://ervinzhang.pythonanywhere.com)
+
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+
+# ✨ Trophy:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yizhezhang-ervin" alt="yizhezhang-ervin" /></a> </p>
 
 # 💻 Tech Stack:
 
@@ -25,11 +34,8 @@
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-# Trophy:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yizhezhang-ervin" alt="yizhezhang-ervin" /></a> </p>
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yizhezhang-ervin&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yizhezhang-ervin&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=yizhezhang-ervin&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
